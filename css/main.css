@@ -46,6 +46,14 @@
     text-justify: auto;
   }
 
+  .data-icon {
+    display:inline-block;
+    height: 1em;
+    width: 1em;
+    /** adjust baseline alignment */
+    transform: translateY(0.28em);
+  }
+
   @media screen and (max-width: 768px) {
     section, footer {
       padding-left: 5%;
