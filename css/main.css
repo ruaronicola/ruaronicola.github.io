@@ -47,10 +47,10 @@
 
   @media screen and (max-width: 768px) {
     section, footer {
+      padding-left: 5%;
+      padding-right: 5%;
       padding-top: 48px;
-    }
-    footer {
-      font-size: 15px;
+      font-size: 14px;
     }
     img {
       width: 40%;
